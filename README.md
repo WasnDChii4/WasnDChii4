@@ -1,5 +1,7 @@
 # Hello World! I'm Wahyu Aji 👋
 
+![My Waifu](https://tenor.com/id/view/ao-no-hako-blue-box-aohako-アオのハコ-アニハコ-gif-8058573302953328736.gif)
+
 <!--
 **WahyuAji00/WahyuAji00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![My Waifu](https://tenor.com/id/view/ao-no-hako-blue-box-aohako-アオのハコ-アニハコ-gif-8058573302953328736.gif)
