@@ -1,6 +1,6 @@
 # Hello World! I'm Wahyu Aji 👋
 
-![My Waifu](https://tenor.com/id/view/ao-no-hako-blue-box-aohako-アオのハコ-アニハコ-gif-8058573302953328736.gif)
+![My Waifu](https://tenor.com/id/view/ao-no-hako-blue-box-aohako-chinatsu-kano-chinatsu-senpai-gif-3154742656011757822.gif)
 
 <!--
 **WahyuAji00/WahyuAji00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
