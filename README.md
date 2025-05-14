@@ -1,4 +1,4 @@
-<img src="gift&img/ChinatsuKano.gif" alt="My Waifu" style="width: 100%;" />
+<img src="gift&img/ChinatsuKano.gif" alt="My Waifu" style="width: 100%; max-width: 800px; display: block; margin: auto;" />
 
 # Hello World! I'm Wahyu Aji 👋
 
