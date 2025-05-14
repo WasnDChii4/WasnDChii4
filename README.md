@@ -1,4 +1,4 @@
-<img src="https://tenor.com/id/view/ao-no-hako-blue-box-aohako-chinatsu-kano-chinatsu-senpai-gif-3154742656011757822.gif" alt="My Waifu" style="width: 900;" />
+<img src="gift&img/ChinatsuKano.gif" alt="My Waifu" style="width: 900;" />
 
 # Hello World! I'm Wahyu Aji 👋
 
