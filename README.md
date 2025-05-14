@@ -1,6 +1,7 @@
+<img src="gift&img/ChinatsuKano.gif" alt="My Waifu" style="width: 100%;" />
+
 # Hello World! I'm Wahyu Aji 👋
 
-<img src="gift&img/ChinatsuKano.gif" alt="My Waifu" style="width: 100%;" />
 
 <!--
 **WahyuAji00/WahyuAji00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
