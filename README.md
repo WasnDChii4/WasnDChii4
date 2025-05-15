@@ -48,7 +48,7 @@ Welcome to My Github Profile! I am a passionate, diligent, and friendly develope
 
 <h2 align="center">Play Games!</h2>
 
-###
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WasnDChii4/WasnDChii4/output/pacman-contribution-graph-dark.svg">
@@ -59,3 +59,5 @@ Welcome to My Github Profile! I am a passionate, diligent, and friendly develope
 ###
 
 <img src="https://raw.githubusercontent.com/WasnDChii4/WasnDChii4/output/snake.svg" alt="Snake animation" />
+
+###
