@@ -57,7 +57,3 @@ Welcome to My Github Profile! I am a passionate, diligent, and friendly develope
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/WasnDChii4/WasnDChii4/output/snake.svg" alt="Snake animation" />
-
-###
