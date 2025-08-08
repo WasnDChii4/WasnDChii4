@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/WasnDChii4/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=WasnDChii4&color=blue"  />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
