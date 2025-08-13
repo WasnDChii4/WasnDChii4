@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=WasnDChii4&color=blue"  />
 </div>
 
+<div align="center">
+  <img src="https://www.codewars.com/users/WasnDChii4/badges/large"  />
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello World! I'm Wasn &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
