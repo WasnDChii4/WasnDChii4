@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gift&img/ChinatsuKano.gif" alt="My Waifu" style="width: 100%;" />
+  <img src="gift&img/HaimiyaMio.gif" alt="My Waifu" style="width: 100%;" />
 </div>
 
 ###
